@@ -1,0 +1,48 @@
+
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 12:54:55
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 12:54:56
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 12:54:56
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 12:54:56
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:02:40
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:04:18
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:43
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:43
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:44
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:44
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:45
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:45
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:57
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:58
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:59
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/02/27 13:11:59
+Type of error: Too many connections Date: 2020/02/27 13:37:17
+Type of error: Too many connections Date: 2020/02/27 13:37:17
+Type of error: Too many connections Date: 2020/02/27 13:37:17
+Type of error: Too many connections Date: 2020/02/27 13:37:17
+Type of error: Too many connections Date: 2020/02/27 13:37:17
+Type of error: Too many connections Date: 2020/02/27 13:37:17
+Type of error: Too many connections Date: 2020/02/27 13:37:17
+Type of error: Too many connections Date: 2020/02/27 13:37:18
+Type of error: Too many connections Date: 2020/02/27 13:37:18
+Type of error: Too many connections Date: 2020/02/27 13:37:18
+Type of error: Too many connections Date: 2020/02/27 13:37:18
+Type of error: Too many connections Date: 2020/02/27 13:37:18
+Type of error: Too many connections Date: 2020/02/27 13:37:18
+Type of error: Too many connections Date: 2020/02/27 13:37:20
+Type of error: Too many connections Date: 2020/02/27 13:37:21
+Type of error: For input string: "CO" Date: 2020/02/28 11:43:21
+Type of error: For input string: "CO" Date: 2020/02/28 11:44:11
+Type of error: For input string: "CO" Date: 2020/02/28 11:44:38
+Type of error: For input string: "CO" Date: 2020/02/28 11:44:49
+Type of error: For input string: "CO" Date: 2020/02/28 11:46:00
+Type of error: For input string: "CO" Date: 2020/02/28 11:46:36
+Type of error: For input string: "CO" Date: 2020/02/28 11:46:52
+Type of error: For input string: "CO" Date: 2020/02/28 11:47:36
+Type of error: For input string: "CO" Date: 2020/02/28 11:49:02
+Type of error: For input string: "CO" Date: 2020/02/28 11:52:30
+Type of error: For input string: "CO" Date: 2020/02/28 11:53:33
+Type of error: For input string: "CO" Date: 2020/03/02 12:28:45
+Type of error: Table 'sttsenov.Staff' doesn't exist Date: 2020/03/03 13:28:21
+Type of error: There was an invalid attempt to calculate the insurance score Date: 2020/03/10 11:30:09
+Type of error: There was an invalid attempt to calculate the insurance score Date: 2020/03/10 11:30:56
+Type of error: There was an invalid attempt to calculate the insurance score Date: 2020/03/10 11:33:39
